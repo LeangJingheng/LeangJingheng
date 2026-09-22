@@ -48,9 +48,8 @@ const heng = {
 <p align="center"> <a href="https://github.com/LeangJingheng"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 🛠️ Tech Stack
-<p> <img  src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" /> </p>
-<p> <img  src="https://skillicons.dev/icons?i=react,nextjs,nodejs,php,bootstrap" /> </p>
-<p> <img  src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode" /> </p>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,graphql,nextjs,angular,svelte,solidity,express,mongodb,python,docker,go,d3,vue,flutter,threejs,aws,figma,redis,npm,git,vercel,postman,prisma,ps&theme=dark)
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heng1729123&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=heng1729123&theme=github-dark&hide_border=true" /> </p>
