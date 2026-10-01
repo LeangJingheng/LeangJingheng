@@ -29,10 +29,9 @@
 
 <!-- Image row: replace the src values with your own image URLs -->
 <p align="center">
-  <img src="images/pixel-laptop.png" width="250" height="250" alt="pixel laptop" />
-  <img src="images/chibi.png" width="250" height="250" alt="chibi" />
-  <img src="images/eyes.png" width="250" height="250" alt="eyes" />
-  <img src="images/felix.png" width="250" height="250" alt="felix" />
+  <img src="image/boy.jpg" width="250" height="250" alt="pixel laptop" />
+  <img src="image/police.jpg" width="250" height="250" alt="chibi" />
+  <img src="image/thirf.jpg" width="250" height="250" alt="eyes" />
 </p>
 
 <img align="right" src="images/ghost.gif" width="100" alt="pixel ghost" />
